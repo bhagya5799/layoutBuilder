@@ -1,0 +1,10 @@
+/* Write your CSS here */
+nav{
+    background-color: rgb(192, 195, 197);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header{
+    color: #64748b;
+}
